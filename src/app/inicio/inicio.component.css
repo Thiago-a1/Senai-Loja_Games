@@ -1,0 +1,31 @@
+#section-banner {
+  min-height: 400px;
+}
+
+#section-banner img {
+  height: 600px;
+  width: 100%;
+}
+
+.example-card {
+  max-width: 400px;
+}
+
+.example-header-image {
+  background-size: cover;
+}
+
+h2 {
+  text-align: center;
+}
+
+#cards {
+  padding: 0 64px;
+  display: flex;
+  justify-content: space-between;
+}
+
+mat-card img{
+  height: 300px;
+  width: 400px;
+}
